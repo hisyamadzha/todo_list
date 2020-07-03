@@ -1,6 +1,6 @@
 # todolist
 
-These mobile application offer function to record and update to-do list.
+This mobile application offer function to record and update to-do list.
 
 ## Getting Started
 
